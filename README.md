@@ -2,30 +2,30 @@
 
 This is a simlest working Bitcoin Blockchain using Javascript/Node.JS. all blocks are stored in memory not in file system so its not permanent. this is part of my learning curve and i keep improving this. any contribution and suggestion will be appreciated.
 
-Features implemented - 
-  Add Peer
+# Features implemented - 
+    Add Peer
   
-  Broadcast peer
+    Broadcast peer
   
-  Add transaction
+    Add transaction
   
-  Broadcast transaction
+    Broadcast transaction
   
-  Proof of work
+    Proof of work
   
-  Block validation
+    Block validation
   
-  Mine the block
+    Mine the block
   
-  Broadcast the block
+    Broadcast the block
  
- Features to implement in next version-
-  Consensus algorithm using Longest chain
-  using the same genesis block created by master node
+ # Features to implement in next version-
+    Consensus algorithm using Longest chain
+    using the same genesis block created by master node
   
- How to run-
-  clone the project
-  npm install
-  create multiple node using following command
-  node server.js 3000 
-  node server.js 3001
+ # How to run-
+    clone the project
+    npm install
+    create multiple node using following command
+    node server.js 3000 
+    node server.js 3001
