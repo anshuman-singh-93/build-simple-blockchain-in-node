@@ -1,12 +1,12 @@
 {
   "name": "build-simple-blockchain-in-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["blockchain","node","simple-blockchain","blockchain in node","build blockchain","blockchain in javascript"],
   "author": "Anshuman Singh",
   "license": "ISC",
   "dependencies": {
