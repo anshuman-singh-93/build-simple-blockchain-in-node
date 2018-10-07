@@ -4,12 +4,19 @@ This is a simlest working Bitcoin Blockchain using Javascript/Node.JS. all block
 
 Features implemented - 
   Add Peer
+  
   Broadcast peer
+  
   Add transaction
+  
   Broadcast transaction
+  
   Proof of work
+  
   Block validation
+  
   Mine the block
+  
   Broadcast the block
  
  Features to implement in next version-
