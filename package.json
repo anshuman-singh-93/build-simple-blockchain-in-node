@@ -14,5 +14,9 @@
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
     "uuid": "^3.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anshuman-singh-93/build-simple-blockchain-in-node"
   }
 }
